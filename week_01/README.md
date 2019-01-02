@@ -21,3 +21,7 @@ It is a collection of entities, each of which is:
 * Failure prone.
 
 and which communicate through an unreliable communication medium.
+
+## Map Reduce
+
+[YARN](https://www.slideshare.net/martyhall/hadoop-tutorial-mapreduce-part-6-job-execution-on-yarn).
