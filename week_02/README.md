@@ -5,4 +5,4 @@
 ![2](resources/2.jpg)
 
 ## Answers
-![results](resources/a.jpg)
+![results](resources/ans.jpg)
